@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon_fish_bubbles</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_fish_bubbles" transform="translate(0.000000, 1.000000)">
+            <g id="fish" transform="translate(0.000000, 28.047619)">
+                <path d="M30.488651,6.44454048 C39.0162927,6.44454048 46.27101,11.2289016 48.9596802,17.9067283 C46.2708223,24.584673 39.0161824,29.3689102 30.488651,29.3689102 C21.9611197,29.3689102 14.7064798,24.584673 12.0177262,17.9069816 C14.706292,11.2289016 21.9610093,6.44454048 30.488651,6.44454048 Z" id="Combined-Shape" stroke="#000000" stroke-width="2" fill="#FFFFFF"></path>
+                <path d="M0.26243451,0.189612196 L12.0178177,16.3171402 L1.15097307,33.5369775 L1.12297234,32.6171161 C2.55058793,28.4130455 3.39644342,23.1886318 3.39644342,17.5275741 C3.39644342,10.8075043 2.20451942,4.70272463 0.26243451,0.189612196 Z" id="Combined-Shape" fill="#000000"></path>
+                <ellipse id="Oval" fill="#000000" cx="37.2053177" cy="14.7806749" rx="1.67916667" ry="2.08403361"></ellipse>
+            </g>
+            <g id="bubbles" transform="translate(40.041667, 0.000000)" fill="#FFFFFF" stroke="#000000">
+                <ellipse id="Oval" cx="12.6682692" cy="32.302521" rx="2.53365385" ry="3.12605042"></ellipse>
+                <ellipse id="Oval" cx="18.5801282" cy="4.16806723" rx="3.37820513" ry="4.16806723"></ellipse>
+                <ellipse id="Oval" cx="4.22275641" cy="17.7142857" rx="4.22275641" ry="5.21008403"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
